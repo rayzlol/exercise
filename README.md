@@ -1,2 +1,2 @@
 # exercise
-algorithm practice.
+programming basic and algorithm practice, mainly in C C++ and python.
